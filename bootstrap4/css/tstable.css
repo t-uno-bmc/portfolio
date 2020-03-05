@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.wrapper {
+  width: 100%;
+  height:730px;
+  overflow: scroll;
+}
+
+thead tr th{
+  position: sticky;
+  top: 0;
+  background-color: #3ca0c8;
+}
+
+tbody tr th{
+  position: sticky;
+  left: 0;
+  background-color: #3ca0c8;
+}
